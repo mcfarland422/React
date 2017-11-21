@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcfarland422/React.git"
+  },
+  "author": "Michael McFarland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcfarland422/React/issues"
+  },
+  "homepage": "https://github.com/mcfarland422/React#readme"
+}
