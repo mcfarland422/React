@@ -1,19 +1,16 @@
 {
-  "name": "react",
+  "name": "react-101",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mcfarland422/React.git"
-  },
-  "author": "Michael McFarland",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mcfarland422/React/issues"
-  },
-  "homepage": "https://github.com/mcfarland422/React#readme"
+  "dependencies": {
+    "connect": "^3.6.5",
+    "serve-static": "^1.13.1"
+  }
 }
